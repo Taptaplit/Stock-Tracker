@@ -24,3 +24,7 @@ pip install lxml
 
 pip install requests
 
+
+##How to use
+
+It is pretty simple, you need to type a valid stock name in the input box and then click the button "Check". After you do that in the box right under the button and input box should display the stock!
